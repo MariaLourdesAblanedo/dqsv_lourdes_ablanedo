@@ -227,6 +227,13 @@ ul {
     border-radius: 20px;
 }
 
+/* Cards */
+
+.cards {
+    padding: 10px;
+    margin: 10px;
+}
+
 .bannerLocal {
     width: 100%;
 }
